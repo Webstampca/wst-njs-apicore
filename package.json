@@ -1,0 +1,29 @@
+{
+  "name": "wst-njsapi",
+  "version": "1.0.0",
+  "description": "Webstamp NodeJs APICore\r Changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://webstampca: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@github.com/Webstampca/wst-njs-apicore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webstampca/wst-njs-apicore/issues"
+  },
+  "homepage": "https://github.com/Webstampca/wst-njs-apicore#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
